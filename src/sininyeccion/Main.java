@@ -18,6 +18,7 @@ public class Main {
     public static void main(String[] args) {
         // TODO code application logic here
         Messi messi = new Messi();
+        System.out.print("Messi esta en el equipo de : ");
         messi.mostrarEquipo();
     }
     
